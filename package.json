@@ -1,0 +1,51 @@
+{
+  "name": "advanced-invite-bot",
+  "version": "0.0.1",
+  "description": "Advanced Discord v14 Invite Counter / Tracking System",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "ts-node src/index.ts",
+    "nodemon": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "invite",
+    "invite-bot",
+    "v14",
+    "discord-invite",
+    "discord-bot",
+    "bot",
+    "discord-bot-v14",
+    "typescript",
+    "ts",
+    "v10",
+    "v10-api",
+    "discord-invite",
+    "invite-discord",
+    "invites",
+    "canvafy",
+    "canvas",
+    "leaderboard",
+    "slash",
+    "command"
+  ],
+  "homepage": "https://www.npmjs.com/package/discord-invite",
+  "bugs": {
+    "url": "https://discord.gg/luppux"
+  },
+  "author": {
+    "name": "Bes-js",
+    "url": "https://github.com/Bes-js"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "canvafy": "^7.0.2",
+    "discord-invite": "^4.0.4",
+    "discord.js": "^14.13.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1"
+  }
+}

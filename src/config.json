@@ -1,0 +1,17 @@
+{
+    "token":"Your Secret Discord Bot Token",
+    "inviteLogChannel":"Invite Log Channel Id",
+
+    "inviteImage":{
+    "SendImage":true, 
+    "Background":"https://cdn.discordapp.com/attachments/1087030211813593190/1110243947311288530/beeautiful-sunset-illustration-1212023.webp",
+    "OverlayOpacity":0.7,
+    "LocaleCode":"en",
+    "SuspectTimestamp":604800000
+    },
+
+    "botPresence":{
+    "name":"Invites"
+    }
+     
+}
