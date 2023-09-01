@@ -89,7 +89,7 @@ npm install
 
     "inviteImage":{
     "SendImage":true, 
-    "Background":"https://cdn.discordapp.com/attachments/1087030211813593190/1110243947311288530/beeautiful-sunset-illustration-1212023.webp",
+    "Background":"https://some-random-image-url.png",
     "OverlayOpacity":0.7,
     "LocaleCode":"en",
     "SuspectTimestamp":604800000
